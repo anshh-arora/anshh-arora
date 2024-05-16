@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Arora</h1>
-<h3 align="center">🎓 Currently pursuing a Bachelor's in Computer Applications (BCA) at Lingayas Vidyapeeth, I am fueled by a passion for data science</h3>
+<h3 align="left">🎓 Currently pursuing a Bachelor's in Computer Applications (BCA) at Lingayas Vidyapeeth, I am fueled by a passion for data science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshh-arora" alt="anshh-arora" /></a> </p>
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshh-arora&show_icons=true&locale=en" alt="anshh-arora" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshh-arora&" alt="anshh-arora" /></p>
+
