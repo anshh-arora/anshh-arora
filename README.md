@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshh-arora" alt="anshh-arora" /></a> </p>
 
-- 🔭 I’m currently working on [30 day data visualizing challenge](https://github.com/anshh-arora/30-day-challenge-data-visualization-)
+- 🔭 I’m currently working as a Data Science Intern at Smartworks[https://linkedin.com/in/ansh arora]
 
 - 💬 Ask me about **Python and its library**
 
