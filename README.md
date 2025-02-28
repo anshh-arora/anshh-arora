@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Arora</h1>
 <h3>I am a dynamic and ambitious student with a strong passion for data science and AI. I have honed my skills in Python programming and MySQL, and I am committed to making meaningful contributions while continuously growing as a data science professional. Currently, I am working on large language models, building on my prior experience in data science.</h3>
 
+## 🌐 Portfolio
 ![](https://anshh-arora.github.io/ansharora.github.io/)
 
 ## 🏆 GitHub Trophies
